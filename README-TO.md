@@ -3,5 +3,5 @@
 #### Sua contribuição é bem vinda
 
 #### Links úteis
-[Download GIT](https://git-scm.com/downloads)
+[Download GIT](https://git-scm.com/downloads)<br>
 [Site GitHub](github.com)
